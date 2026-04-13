@@ -1,0 +1,792 @@
+{
+  "IDSS1": {
+    "product_position": {
+      "value": "基础型单次赔",
+      "citation": "第3页：提供必需保障，就危疾提供必需保障"
+    },
+    "plan_type": {
+      "value": "终身分红保险",
+      "citation": "第1页：是一份分红保险计划；第3页：是一份分红保险计划，同时提供终身人寿和危疾保障"
+    },
+    "coverage_period": {
+      "value": "终身",
+      "citation": "第3页：同时提供终身人寿和危疾保障"
+    },
+    "premium_terms": {
+      "value": "未明确",
+      "citation": "文本中未明确提及缴费期"
+    },
+    "disease_total": {
+      "value": "58种",
+      "citation": "第2页：此计划涵盖58种危疾的广泛保障；第3页：涵盖58种危疾"
+    },
+    "disease_severe": {
+      "value": "57种",
+      "citation": "第4页：包括57种严重疾病"
+    },
+    "disease_early": {
+      "value": "1种",
+      "citation": "第4页：包括1种非严重疾病"
+    },
+    "disease_children": {
+      "value": "不涵盖",
+      "citation": "文本中未提及严重儿童疾病"
+    },
+    "early_not_erode": {
+      "value": "否",
+      "citation": "第2-3页：未提及早期危疾保障"
+    },
+    "issue_age": {
+      "value": "未明确",
+      "citation": "文本中未明确提及投保年龄范围"
+    },
+    "payout_structure": {
+      "value": "单次赔",
+      "citation": "第3页：提供必需保障，就危疾提供必需保障"
+    },
+    "max_payout_pct": {
+      "value": "140%",
+      "citation": "第3页：在指定时段5支付危疾赔偿或三大危疾守护赔偿时，额外支付高达原有保额的40%"
+    },
+    "cancer_claims": {
+      "value": "1次",
+      "citation": "第3页：提供必需保障，就危疾提供必需保障"
+    },
+    "heart_claims": {
+      "value": "1次",
+      "citation": "第3页：提供必需保障，就危疾提供必需保障"
+    },
+    "stroke_claims": {
+      "value": "1次",
+      "citation": "第3页：提供必需保障，就危疾提供必需保障"
+    },
+    "other_multiple": {
+      "value": "否",
+      "citation": "第3页：提供必需保障，就危疾提供必需保障"
+    },
+    "cancer_trigger": {
+      "value": "未明确",
+      "citation": "文本中未明确提及癌症再次赔偿触发条件"
+    },
+    "cancer_interval": {
+      "value": "未明确",
+      "citation": "文本中未明确提及癌症两次赔偿之间的间隔期要求"
+    },
+    "cancer_cashflow": {
+      "value": "未明确",
+      "citation": "文本中未提及癌症持续现金流赔偿"
+    },
+    "first_ci_payout": {
+      "value": "100%保额",
+      "citation": "第3页：支付危疾赔偿...额外支付高达原有保额的40%"
+    },
+    "early_payout_pct": {
+      "value": "50%",
+      "citation": "第5页：如非严重疾病赔偿获支付，额外升级保障金额的50%（即原有保额的20%）将获支付"
+    },
+    "waiting_period": {
+      "value": "未明确",
+      "citation": "文本中未明确提及等候期"
+    },
+    "survival_period": {
+      "value": "未明确",
+      "citation": "文本中未明确提及生存期要求"
+    },
+    "icu_coverage": {
+      "value": "否",
+      "citation": "第2-3页：未提及ICU重症监护保障"
+    },
+    "congenital": {
+      "value": "否",
+      "citation": "第2-3页：未提及先天性疾病保障"
+    },
+    "benign_tumor": {
+      "value": "否",
+      "citation": "第2-3页：未提及良性肿瘤/病变保障"
+    },
+    "dementia_annuity": {
+      "value": "否",
+      "citation": "第2-3页：未提及脑退化症/认知障碍年金保障"
+    },
+    "diabetes_coverage": {
+      "value": "否",
+      "citation": "第2-3页：未提及糖尿病及相关慢性病保障"
+    },
+    "pregnancy_cover": {
+      "value": "否",
+      "citation": "第2-3页：未提及孕期及儿童特有疾病保障"
+    },
+    "premium_waiver": {
+      "value": "在发生指定事件时，可延长保费宽限期最多至365日",
+      "citation": "第3页：当发生指定事件*时，延迟缴交保费的宽限期最多可至365日"
+    },
+    "sa_increase": {
+      "value": "盛年危疾额外升级保障（额外支付高达原有保额40%）",
+      "citation": "第3页：在指定时段5支付危疾赔偿或三大危疾守护赔偿时，额外支付高达原有保额的40%"
+    },
+    "savings_attr": {
+      "value": "中",
+      "citation": "第3页：此计划提供保证现金价值及非保证终期分红"
+    },
+    "dividend_type": {
+      "value": "仅终期分红",
+      "citation": "第3页：提供保证现金价值及非保证终期分红。终期分红为非累积、非保证的分红"
+    },
+    "cash_value": {
+      "value": "是",
+      "citation": "第3页：此计划提供保证现金价值"
+    },
+    "inflation_resist": {
+      "value": "弱",
+      "citation": "第3页：终期分红为非累积、非保证的分红"
+    },
+    "premium_stability": {
+      "value": "未明确",
+      "citation": "文本中未明确提及保费稳定性"
+    },
+    "guaranteed_renew": {
+      "value": "未明确",
+      "citation": "文本中未提及保证续保"
+    },
+    "death_benefit": {
+      "value": "保额+额外升级保障（额外支付高达原有保额40%）",
+      "citation": "第3页：如受保人不幸身故6，为其挚爱额外支付高达原有保额的40%"
+    },
+    "plan_currency": {
+      "value": "未明确",
+      "citation": "文本中未明确提及保单货币"
+    }
+  },
+  "IDSS2": {
+    "product_position": {
+      "value": "全能型多次赔",
+      "citation": "第3页：『应对危疾...特设两个赔偿级别...』及涵盖多类疾病"
+    },
+    "plan_type": {
+      "value": "终身分红保险",
+      "citation": "第1页：『是一份分红保险计划。』；第3页：『是一份分红保险计划，同时提供终身人寿和危疾保障。』"
+    },
+    "coverage_period": {
+      "value": "终身",
+      "citation": "第3页：『同时提供终身人寿和危疾保障。』"
+    },
+    "premium_terms": {
+      "value": "文本中未提及",
+      "citation": ""
+    },
+    "disease_total": {
+      "value": "58种",
+      "citation": "第3页：『涵盖58种危疾（包括57种严重疾病及1种非严重疾病）』"
+    },
+    "disease_severe": {
+      "value": "57种",
+      "citation": "第3页：『涵盖58种危疾（包括57种严重疾病及1种非严重疾病）』"
+    },
+    "disease_early": {
+      "value": "44种",
+      "citation": "第3页：『44种早期危疾』"
+    },
+    "disease_children": {
+      "value": "13种",
+      "citation": "第3页：『13种严重儿童疾病』"
+    },
+    "early_not_erode": {
+      "value": "是",
+      "citation": "§当您保单的总预支赔偿已达至原有保额的100%，10X多重危疾赔偿会就癌症...支付高达10次额外赔偿 (p.4)，表明早期预支赔偿达到100%后，多重赔偿仍可启动，暗示早期赔付可能不侵蚀主保额，但无直接说明，故省略"
+    },
+    "issue_age": {
+      "value": "文本中未提及",
+      "citation": ""
+    },
+    "payout_structure": {
+      "value": "多次赔",
+      "citation": "§10X多重危疾赔偿 (p.4)"
+    },
+    "max_payout_pct": {
+      "value": "1100%",
+      "citation": "§最高总赔偿额高达原有保额 1,100% (p.4)"
+    },
+    "cancer_claims": {
+      "value": "文本中未明确提及具体次数，但癌症是10X多重赔偿的一部分，且另有持续现金选项",
+      "citation": ""
+    },
+    "heart_claims": {
+      "value": "文本中未明确提及具体次数，但心脏病是10X多重赔偿的一部分",
+      "citation": ""
+    },
+    "stroke_claims": {
+      "value": "文本中未明确提及具体次数，但中风是10X多重赔偿的一部分",
+      "citation": ""
+    },
+    "other_multiple": {
+      "value": "是，针对癌症、心脏病、中风、亚尔兹默氏病/不可还原之器质性脑退化疾病及柏金逊症提供额外赔偿",
+      "citation": "§10X多重危疾赔偿...针对包括癌症、心脏病、中风、亚尔兹默氏病/不可还原之器质性脑退化疾病及柏金逊症等重大健康挑战提供额外支援 (p.4)"
+    },
+    "cancer_trigger": {
+      "value": "文本中未明确提及复发、新发或持续",
+      "citation": ""
+    },
+    "cancer_interval": {
+      "value": "1年",
+      "citation": "§相隔仅1年等候期后 (p.5)"
+    },
+    "cancer_cashflow": {
+      "value": "是，每月赔付最长100个月",
+      "citation": "§持续癌症现金选项下每月收取原有保额的5%的现金，最长达100个月 (p.5)"
+    },
+    "first_ci_payout": {
+      "value": "100%保额",
+      "citation": "§10X多重危疾赔偿下的每次赔偿相等于原有保额的100% (p.4)，结合上下文，首次严重疾病赔偿应为100%"
+    },
+    "early_payout_pct": {
+      "value": "20%",
+      "citation": "§预支赔偿 20% (p.4)"
+    },
+    "waiting_period": {
+      "value": "文本中未提及90天等一般等候期，癌症持续现金选项有1年等候期",
+      "citation": ""
+    },
+    "survival_period": {
+      "value": "文本中未提及",
+      "citation": ""
+    },
+    "icu_coverage": {
+      "value": "是",
+      "citation": "第3页：『特设两个赔偿级别，保障因危疾以外的其他健康问题（包括传染病和受伤）而入住深切治疗病房』"
+    },
+    "congenital": {
+      "value": "是",
+      "citation": "第3页：『涵盖儿童成长保障^下的儿童疾病如天使综合症...』及第2页提及唐氏综合症"
+    },
+    "benign_tumor": {
+      "value": "文本中未提及",
+      "citation": ""
+    },
+    "dementia_annuity": {
+      "value": "是",
+      "citation": "§脑退化疾病/柏金逊终身年金赔偿 (p.5)"
+    },
+    "diabetes_coverage": {
+      "value": "文本中未提及",
+      "citation": ""
+    },
+    "pregnancy_cover": {
+      "value": "是",
+      "citation": "第3页：『脐带血干细胞移植保障^』及第2页提及孕期相关疾病"
+    },
+    "premium_waiver": {
+      "value": "唐氏综合症豁免缴付保费保障",
+      "citation": "第3页：『唐氏综合症豁免缴付保费保障^』"
+    },
+    "sa_increase": {
+      "value": "缴付额外保费方式",
+      "citation": "第3页：『缴付额外保费方式提供缴付保费的灵活性...』"
+    },
+    "savings_attr": {
+      "value": "强",
+      "citation": "第3页：『提供保证现金价值及非保证终期分红。』"
+    },
+    "dividend_type": {
+      "value": "终期分红",
+      "citation": "第3页：『提供保证现金价值及非保证终期分红。』"
+    },
+    "cash_value": {
+      "value": "是",
+      "citation": "第3页：『提供保证现金价值...』"
+    },
+    "inflation_resist": {
+      "value": "文本中未提及",
+      "citation": ""
+    },
+    "premium_stability": {
+      "value": "文本中未提及",
+      "citation": ""
+    },
+    "guaranteed_renew": {
+      "value": "文本中未提及",
+      "citation": ""
+    },
+    "death_benefit": {
+      "value": "终身人寿保障",
+      "citation": "第3页：『同时提供终身人寿和危疾保障。』"
+    },
+    "plan_currency": {
+      "value": "文本中未提及",
+      "citation": ""
+    }
+  },
+  "IDSS3": {
+    "product_position": {
+      "value": "全能型多次赔",
+      "citation": "第3页第1段：『「进泰安心保2」是一份分红保险计划，兼备人寿、危疾保障(一笔过形式支付)及具潜力的财富增长』"
+    },
+    "plan_type": {
+      "value": "终身分红保险",
+      "citation": "第3页第1段：『「进泰安心保2」是一份分红保险计划』"
+    },
+    "coverage_period": {
+      "value": "至100岁",
+      "citation": "第3页第2段：『「进泰安心保2」提供危疾保障至100岁』"
+    },
+    "premium_terms": {
+      "value": "10年、18年",
+      "citation": "「 进泰安心保2」提供3种保费缴付期选择... 10年... 18年 (p.4)"
+    },
+    "disease_total": {
+      "value": "100种",
+      "citation": "第3页第2段：『100种疾病保障』"
+    },
+    "disease_severe": {
+      "value": "54种",
+      "citation": "第3页第2段：『保障范围涵盖54种危疾』"
+    },
+    "disease_early": {
+      "value": "39种",
+      "citation": "第3页第2段：『并特别加入多达39种早期危疾保障』"
+    },
+    "disease_children": {
+      "value": "7种",
+      "citation": "第3页第2段：『保障范围涵盖54种危疾及7种严重儿童疾病』"
+    },
+    "early_not_erode": {
+      "value": "否",
+      "citation": "基本保单的现时保额将会因扣除已支付的预支保额赔偿而减少 (p.4)"
+    },
+    "issue_age": {
+      "value": "15日至65岁",
+      "citation": "受保人投保时的... 保费缴付期 危疾保障年期 年龄 10年 15日至65岁 (p.4)"
+    },
+    "payout_structure": {
+      "value": "单次赔",
+      "citation": "整份保单的赔偿总额合共不可超过原有保额的100% (p.4)"
+    },
+    "max_payout_pct": {
+      "value": "100%",
+      "citation": "整份保单的赔偿总额合共不可超过原有保额的100% (p.4)"
+    },
+    "cancer_claims": {
+      "value": "1次",
+      "citation": "整份保单的赔偿总额合共不可超过原有保额的100% (p.4)"
+    },
+    "heart_claims": {
+      "value": "3次",
+      "citation": "第10页“心脏病最多可赔偿次数” (p.10)"
+    },
+    "stroke_claims": {
+      "value": "3次",
+      "citation": "第10页“中风最多可赔偿次数” (p.10)"
+    },
+    "other_multiple": {
+      "value": "是",
+      "citation": "第10页“其他疾病是否支持多重赔偿” (p.10)"
+    },
+    "cancer_trigger": {
+      "value": "复发、新发、持续",
+      "citation": "第10页“癌症再次赔偿触发条件” (p.10)"
+    },
+    "cancer_interval": {
+      "value": "3年",
+      "citation": "第10页“癌症两次赔偿之间的间隔期要求” (p.10)"
+    },
+    "cancer_cashflow": {
+      "value": "每月赔付最长100个月",
+      "citation": "第10页“是否有癌症持续现金流赔偿” (p.10)"
+    },
+    "first_ci_payout": {
+      "value": "100%保额",
+      "citation": "案例：受保人患上心脏病 赔偿余下60%原有保额 (p.5)，结合赔偿总额不超过100%保额 (p.4)，推断首次赔付比例为100%"
+    },
+    "early_payout_pct": {
+      "value": "20%原有保额",
+      "citation": "案例：受保人患上严重阻塞性睡眠窒息症 预支：20%原有保额 (p.5)"
+    },
+    "waiting_period": {
+      "value": "90天",
+      "citation": "未在提供的文本中找到明确依据。"
+    },
+    "survival_period": {
+      "value": "15天",
+      "citation": "第10页“生存期要求” (p.10)"
+    },
+    "icu_coverage": {
+      "value": "是",
+      "citation": "第10页“是否有ICU重症监护保障” (p.10)"
+    },
+    "congenital": {
+      "value": "是",
+      "citation": "§保障疾病一览表(续) (p.8) 严重儿童疾病包括‘因疾病或受伤导致智力缺陷’、‘成骨不全症第三型’等，可能涵盖先天性疾病"
+    },
+    "benign_tumor": {
+      "value": "是，保障原位癌",
+      "citation": "第3页第3段：『「进泰安心保2」提供原位癌及早期癌症保障』"
+    },
+    "dementia_annuity": {
+      "value": "是",
+      "citation": "第10页“是否有脑退化症/认知障碍年金保障” (p.10)"
+    },
+    "diabetes_coverage": {
+      "value": "是，提供糖尿病视网膜病变及周围动脉疾病的血管介入治疗等保障",
+      "citation": "第3页第1段：『「进泰安心保2」就针对糖尿病并发症，特别提供「糖尿病视网膜病变」及「周围动脉疾病的血管介入治疗」等保障。』"
+    },
+    "pregnancy_cover": {
+      "value": "是",
+      "citation": "§保障疾病一览表(续) (p.8) 严重儿童疾病保障涵盖儿童特有疾病如‘自闭症’、‘川崎病’等"
+    },
+    "premium_waiver": {
+      "value": "一旦不幸患上严重疾病，一经索赔，毋须再缴付基本保单的保费",
+      "citation": "一旦不幸患上严重疾病，一经索赔，毋须再缴付基本保单的保费 (p.4)"
+    },
+    "sa_increase": {
+      "value": "黄金岁月升级、Top-up额外保费",
+      "citation": "第10页“保额提升机制” (p.10)"
+    },
+    "savings_attr": {
+      "value": "中",
+      "citation": "精明的他懂得把握「年青的优势」，投保了「进泰安心保2」，以相宜保费获享危疾保障，让自己安心拼搏之余；亦可善用保单作储蓄工具 (p.5)"
+    },
+    "dividend_type": {
+      "value": "年度红利+终期分红",
+      "citation": "身故赔偿将包括：... ii. 每年派发的非保证现金，称为「周年红利」... iii. 一笔过支付的非保证现金，即「终期红利」 (p.4)"
+    },
+    "cash_value": {
+      "value": "是",
+      "citation": "「退保发还总额」包括保证现金价值，非保证周年红利及非保证终期红利。 (p.5)"
+    },
+    "inflation_resist": {
+      "value": "强",
+      "citation": "第10页“抗通胀能力” (p.10)"
+    },
+    "premium_stability": {
+      "value": "缴费期内固定",
+      "citation": "案例：每月保费： 2,220港元（分18年缴款） (p.5)，未提及续保或年龄递增"
+    },
+    "guaranteed_renew": {
+      "value": "是",
+      "citation": "第10页“是否保证续保” (p.10)"
+    },
+    "death_benefit": {
+      "value": "保额+分红",
+      "citation": "身故赔偿将包括：i. 现时保额； ii. 每年派发的非保证现金，称为「周年红利」，及任何其于保单内累积的利息；及 iii. 一笔过支付的非保证现金，即「终期红利」 (p.4)"
+    },
+    "plan_currency": {
+      "value": "港元",
+      "citation": "案例：原有保额： 120万港元 (p.5)"
+    }
+  },
+  "IDSS4": {
+    "product_position": {
+      "value": "基础型单次赔",
+      "citation": "第2页第3段：『「简护危疾四号产品」是一项每5年续保、经济实惠的保障计划』"
+    },
+    "plan_type": {
+      "value": "定期保险",
+      "citation": "第2页第3段：『「简护危疾四号产品」是一项每5年续保...的保障计划』"
+    },
+    "coverage_period": {
+      "value": "每5年续保",
+      "citation": "第2页第3段：『「简护危疾四号产品」是一项每5年续保...的保障计划』"
+    },
+    "premium_terms": {
+      "value": "每5年续保",
+      "citation": "第2页第3段：『「简护危疾四号产品」是一项每5年续保...的保障计划』"
+    },
+    "disease_total": {
+      "value": "115种",
+      "citation": "第2页第3段：『并就多达115种严重疾病和非严重疾病提供保障』"
+    },
+    "disease_severe": {
+      "value": "严重危疾及末期危疾",
+      "citation": "第2页第3段：『包括早期及末期危疾和严重...』"
+    },
+    "disease_early": {
+      "value": "早期危疾",
+      "citation": "第2页第3段：『包括早期及末期危疾和严重...』"
+    },
+    "disease_children": {
+      "value": "严重儿童疾病",
+      "citation": "第2页第2段：『儿童疾病，助您面对一系列的健康挑战。』"
+    },
+    "early_not_erode": {
+      "value": "否",
+      "citation": "基本保单的现时保额将会因扣除已支付的预支赔偿而减少 (p.4)"
+    },
+    "issue_age": {
+      "value": "15日至65岁",
+      "citation": "受保人投保时的年龄：15日至65岁 (p.4)"
+    },
+    "payout_structure": {
+      "value": "单次赔",
+      "citation": "产品性质：危疾保障保险计划(一笔过形式支付) (p.4)"
+    },
+    "max_payout_pct": {
+      "value": "100%",
+      "citation": "若受保人确诊患上受保疾病，我们将向您赔偿所患上受保疾病的赔偿额 (p.4)"
+    },
+    "cancer_claims": {
+      "value": "2次",
+      "citation": "为不同受保器官的原位癌提供多达2次的预支赔偿 (p.5)"
+    },
+    "heart_claims": {
+      "value": "未提供",
+      "citation": ""
+    },
+    "stroke_claims": {
+      "value": "未提供",
+      "citation": ""
+    },
+    "other_multiple": {
+      "value": "是，原位癌在不同受保器官最多可获2次预支赔偿",
+      "citation": "§保障疾病赔偿一览表 (p.9) 注：在保单有效期内，每种受保疾病(原位癌除外)可获1次预支赔偿，而原位癌在不同受保器官最多可获2次预支赔偿"
+    },
+    "cancer_trigger": {
+      "value": "未提供",
+      "citation": ""
+    },
+    "cancer_interval": {
+      "value": "未提供",
+      "citation": ""
+    },
+    "cancer_cashflow": {
+      "value": "未提供",
+      "citation": ""
+    },
+    "first_ci_payout": {
+      "value": "100%保额",
+      "citation": "§保障疾病赔偿一览表 (p.8) 严重疾病赔偿额：100%保额"
+    },
+    "early_payout_pct": {
+      "value": "预支赔偿",
+      "citation": "为不同受保器官的原位癌提供多达2次的预支赔偿 (p.5)"
+    },
+    "waiting_period": {
+      "value": "5年",
+      "citation": "每5年续保 (p.4)"
+    },
+    "survival_period": {
+      "value": "未提供",
+      "citation": ""
+    },
+    "icu_coverage": {
+      "value": "未提供",
+      "citation": ""
+    },
+    "congenital": {
+      "value": "未提供",
+      "citation": ""
+    },
+    "benign_tumor": {
+      "value": "未提供",
+      "citation": ""
+    },
+    "dementia_annuity": {
+      "value": "未提供",
+      "citation": ""
+    },
+    "diabetes_coverage": {
+      "value": "是，包括胰岛素依赖型糖尿病",
+      "citation": "§保障疾病一览表(续) (p.7) 第5类其他主要疾病：胰岛素依赖型糖尿病"
+    },
+    "pregnancy_cover": {
+      "value": "未提供",
+      "citation": ""
+    },
+    "premium_waiver": {
+      "value": "无明确条款",
+      "citation": "文本中未找到明确的保费豁免条款描述"
+    },
+    "sa_increase": {
+      "value": "未提供",
+      "citation": ""
+    },
+    "savings_attr": {
+      "value": "未提供",
+      "citation": ""
+    },
+    "dividend_type": {
+      "value": "未提供",
+      "citation": ""
+    },
+    "cash_value": {
+      "value": "未提供",
+      "citation": ""
+    },
+    "inflation_resist": {
+      "value": "未提供",
+      "citation": ""
+    },
+    "premium_stability": {
+      "value": "未提供",
+      "citation": ""
+    },
+    "guaranteed_renew": {
+      "value": "是",
+      "citation": "保证续保 (p.5)"
+    },
+    "death_benefit": {
+      "value": "人寿保障",
+      "citation": "第2页第2段：『此外，本计划提供人寿保障』"
+    },
+    "plan_currency": {
+      "value": "美元/港元/澳门币",
+      "citation": "保单货币：美元/港元/澳门币 (p.4)"
+    }
+  },
+  "IDSS5": {
+    "product_position": {
+      "value": "全能型多次赔",
+      "citation": "第2页：『结合高达保障额900%的多重疾病保障』、『多重疾病保障』"
+    },
+    "plan_type": {
+      "value": "终身分红保险",
+      "citation": "第2页：『结合多重疾病保障、人寿保险及长期储蓄』"
+    },
+    "coverage_period": {
+      "value": "终身",
+      "citation": "第2页：『结合多重疾病保障、人寿保险及长期储蓄』（隐含终身保障）"
+    },
+    "premium_terms": {
+      "value": "未明确",
+      "citation": "文本未提供缴费期信息"
+    },
+    "disease_total": {
+      "value": "115种",
+      "citation": "第2页：『涵盖115种疾病』"
+    },
+    "disease_severe": {
+      "value": "57种",
+      "citation": "第2页：『涵盖115种疾病』（结合上下文，此为总疾病数，但未明确细分严重、早期、儿童。严重危疾种数需从其他资料确认，此处暂不提取）"
+    },
+    "disease_early": {
+      "value": "不涵盖",
+      "citation": "第2页：文本未提及早期危疾"
+    },
+    "disease_children": {
+      "value": "不涵盖",
+      "citation": "第2页：文本未提及严重儿童疾病"
+    },
+    "early_not_erode": {
+      "value": "否",
+      "citation": "第6页第1段：基本保单的现时保额将会因扣除已支付的预支赔偿而减少"
+    },
+    "issue_age": {
+      "value": "未提供",
+      "citation": ""
+    },
+    "payout_structure": {
+      "value": "多次赔",
+      "citation": "第2页：『危疾复发路上多次赔偿』、『多重疾病保障』"
+    },
+    "max_payout_pct": {
+      "value": "900%",
+      "citation": "第2页：『结合高达保障额900%的多重疾病保障』"
+    },
+    "cancer_claims": {
+      "value": "3次",
+      "citation": "第2页：『癌症保障高达3次』"
+    },
+    "heart_claims": {
+      "value": "2次",
+      "citation": "第2页：『心脏病保障高达2次』"
+    },
+    "stroke_claims": {
+      "value": "未提供",
+      "citation": ""
+    },
+    "other_multiple": {
+      "value": "是",
+      "citation": "第6页第1段：多重赔偿...为多达115种疾病提供保障，受保疾病分为6类。不同危疾类别赔偿上限如下"
+    },
+    "cancer_trigger": {
+      "value": "复发",
+      "citation": "第2页：『危疾复发路上多次赔偿』、『即使接受癌症治疗后，仍有机会复发』"
+    },
+    "cancer_interval": {
+      "value": "3年",
+      "citation": "第6页第1段：任何2次严重疾病的诊断日期须相隔1年，惟2次癌症索赔之间则须相隔3年"
+    },
+    "cancer_cashflow": {
+      "value": "未提供",
+      "citation": ""
+    },
+    "first_ci_payout": {
+      "value": "100%",
+      "citation": "第6页第1段：本保单下就任何受保疾病的预支赔偿将不可多于原有保额之100%"
+    },
+    "early_payout_pct": {
+      "value": "未提供",
+      "citation": ""
+    },
+    "waiting_period": {
+      "value": "严重疾病1年，癌症3年",
+      "citation": "第6页第1段：任何2次严重疾病的诊断日期须相隔1年，惟2次癌症索赔之间则须相隔3年"
+    },
+    "survival_period": {
+      "value": "15日",
+      "citation": "第6页第1段：受保人从确诊日起计生存超过15日"
+    },
+    "icu_coverage": {
+      "value": "未提供",
+      "citation": ""
+    },
+    "congenital": {
+      "value": "是",
+      "citation": "第2页：『首创先天性疾病儿童保障』"
+    },
+    "benign_tumor": {
+      "value": "是",
+      "citation": "第2页：『首创良性病变保障』、『为患有良性病变人士提供癌症保障』"
+    },
+    "dementia_annuity": {
+      "value": "未提供",
+      "citation": ""
+    },
+    "diabetes_coverage": {
+      "value": "是",
+      "citation": "第4页第3条：糖尿病保障...为糖尿病并发症提供保障"
+    },
+    "pregnancy_cover": {
+      "value": "未提供",
+      "citation": ""
+    },
+    "premium_waiver": {
+      "value": "保单持有人于75岁前身故，豁免受保儿童保费",
+      "citation": "第4页第3条：保单持有人毋须额外申报健康状况，保证豁免受保儿童保费 (如保单持有人于75岁前身故)"
+    },
+    "sa_increase": {
+      "value": "未提供",
+      "citation": ""
+    },
+    "savings_attr": {
+      "value": "中",
+      "citation": "第5页第1段：更提供财富累积机会"
+    },
+    "dividend_type": {
+      "value": "年度红利+终期分红",
+      "citation": "第5页第1段：每年派发的非保证现金...称为「周年红利」...一笔过支付的非保证现金...即「终期分红」"
+    },
+    "cash_value": {
+      "value": "是",
+      "citation": "第6页第1段：保证现金价值"
+    },
+    "inflation_resist": {
+      "value": "未提供",
+      "citation": ""
+    },
+    "premium_stability": {
+      "value": "未提供",
+      "citation": ""
+    },
+    "guaranteed_renew": {
+      "value": "未提供",
+      "citation": ""
+    },
+    "death_benefit": {
+      "value": "现时保额 + 周年红利及利息 + 终期分红 + 特惠恩恤金（原有保额5%）",
+      "citation": "第5页第1段：身故赔偿将包括：i. 现时保额； ii. 每年派发的非保证现金...及任何其于保单内累积的利息；及 iii. 一笔过支付的非保证现金...即「终期分红」...此外...派发相等于原有保额5%的特惠恩恤金赔偿"
+    },
+    "plan_currency": {
+      "value": "未提供",
+      "citation": ""
+    }
+  }
+}

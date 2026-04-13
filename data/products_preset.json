@@ -1,0 +1,792 @@
+{
+  "IDSS1": {
+    "product_position": {
+      "value": "基础型（聚焦三大高发）",
+      "citation": "一号产品小册子 §产品概要 (p.1)"
+    },
+    "plan_type": {
+      "value": "终身分红保险",
+      "citation": "一号产品小册子 §产品资料 (p.8)"
+    },
+    "coverage_period": {
+      "value": "终身",
+      "citation": "一号产品小册子 §产品资料 (p.8)"
+    },
+    "premium_terms": {
+      "value": "10 / 18 / 25 年",
+      "citation": "一号产品小册子 §产品资料 (p.8)"
+    },
+    "disease_total": {
+      "value": "58 种",
+      "citation": "一号产品小册子 §保障疾病一览表 (p.4)"
+    },
+    "disease_severe": {
+      "value": "57 种",
+      "citation": "一号产品小册子 §保障疾病一览表 (p.4-5)"
+    },
+    "disease_early": {
+      "value": "❌ 不涵盖",
+      "citation": "一号产品小册子 §保障疾病一览表 (p.4)"
+    },
+    "disease_children": {
+      "value": "❌ 不涵盖",
+      "citation": "一号产品小册子 §保障疾病一览表 (p.4)"
+    },
+    "early_not_erode": {
+      "value": "—",
+      "citation": "一号产品小册子 §产品特点 (p.3)"
+    },
+    "issue_age": {
+      "value": "0–65 岁",
+      "citation": "一号产品小册子 §产品资料 (p.8)"
+    },
+    "payout_structure": {
+      "value": "单次 + 三大疾病额外",
+      "citation": "一号产品小册子 §赔偿表 (p.4)"
+    },
+    "max_payout_pct": {
+      "value": "~280%",
+      "citation": "一号产品小册子 §赔偿表 (p.4-5)"
+    },
+    "cancer_claims": {
+      "value": "2 次（Big3 守护）",
+      "citation": "一号产品小册子 §Big3守护 (p.4)"
+    },
+    "heart_claims": {
+      "value": "⭐ 各多 1 次",
+      "citation": "一号产品小册子 §Big3守护 (p.4)"
+    },
+    "stroke_claims": {
+      "value": "⭐ 各多 1 次",
+      "citation": "一号产品小册子 §Big3守护 (p.4)"
+    },
+    "other_multiple": {
+      "value": "❌",
+      "citation": "一号产品小册子 §赔偿表 (p.4-5)"
+    },
+    "cancer_trigger": {
+      "value": "复发",
+      "citation": "一号产品小册子 §赔偿表 (p.4)"
+    },
+    "cancer_interval": {
+      "value": "中（约1年）",
+      "citation": "一号产品小册子 §赔偿条款 (p.5)"
+    },
+    "cancer_cashflow": {
+      "value": "❌",
+      "citation": "一号产品小册子 §赔偿特点 (p.4)"
+    },
+    "first_ci_payout": {
+      "value": "100%",
+      "citation": "一号产品小册子 §赔偿表 (p.4)"
+    },
+    "early_payout_pct": {
+      "value": "—",
+      "citation": "一号产品小册子 §产品特点 (p.3)"
+    },
+    "waiting_period": {
+      "value": "常规（90天）",
+      "citation": "一号产品小册子 §保障条款 (p.6)"
+    },
+    "survival_period": {
+      "value": "15 天",
+      "citation": "一号产品小册子 §保障条款 (p.6)"
+    },
+    "icu_coverage": {
+      "value": "❌",
+      "citation": "一号产品小册子 §产品特点 (p.3)"
+    },
+    "congenital": {
+      "value": "❌",
+      "citation": "一号产品小册子 §产品特点 (p.3)"
+    },
+    "benign_tumor": {
+      "value": "❌",
+      "citation": "一号产品小册子 §产品特点 (p.3)"
+    },
+    "dementia_annuity": {
+      "value": "❌",
+      "citation": "一号产品小册子 §产品特点 (p.3)"
+    },
+    "diabetes_coverage": {
+      "value": "❌",
+      "citation": "一号产品小册子 §保障疾病一览表 (p.4-5)"
+    },
+    "pregnancy_cover": {
+      "value": "❌",
+      "citation": "一号产品小册子 §产品特点 (p.3)"
+    },
+    "premium_waiver": {
+      "value": "有",
+      "citation": "一号产品小册子 §产品资料 (p.8)"
+    },
+    "sa_increase": {
+      "value": "+40%（黄金岁月升级）",
+      "citation": "一号产品小册子 §黄金岁月升级 (p.5)"
+    },
+    "savings_attr": {
+      "value": "中",
+      "citation": "一号产品小册子 §重要资料 (p.9)"
+    },
+    "dividend_type": {
+      "value": "终期分红（5年后）",
+      "citation": "一号产品小册子 §红利理念 (p.9)"
+    },
+    "cash_value": {
+      "value": "✅ 有",
+      "citation": "一号产品小册子 §重要资料 (p.9)"
+    },
+    "inflation_resist": {
+      "value": "中",
+      "citation": "一号产品小册子 §产品特点 (p.3)"
+    },
+    "premium_stability": {
+      "value": "稳定（缴费期内固定）",
+      "citation": "一号产品小册子 §产品资料 (p.8)"
+    },
+    "guaranteed_renew": {
+      "value": "✅ 是",
+      "citation": "一号产品小册子 §保障条款 (p.6)"
+    },
+    "death_benefit": {
+      "value": "保额 + 分红",
+      "citation": "一号产品小册子 §产品资料 (p.8)"
+    },
+    "plan_currency": {
+      "value": "HKD / USD",
+      "citation": "一号产品小册子 §产品资料 (p.8)"
+    }
+  },
+  "IDSS2": {
+    "product_position": {
+      "value": "⭐ 全能型（多次+家庭）",
+      "citation": "二号产品小册子 §产品概要 (p.1)"
+    },
+    "plan_type": {
+      "value": "终身分红保险",
+      "citation": "二号产品小册子 §产品资料 (p.12)"
+    },
+    "coverage_period": {
+      "value": "终身",
+      "citation": "二号产品小册子 §产品资料 (p.12)"
+    },
+    "premium_terms": {
+      "value": "10 年（可加额外保费）",
+      "citation": "二号产品小册子 §产品资料 (p.12)"
+    },
+    "disease_total": {
+      "value": "115 种",
+      "citation": "二号产品小册子 §保障疾病一览表 (p.3)"
+    },
+    "disease_severe": {
+      "value": "57 种",
+      "citation": "二号产品小册子 §保障疾病一览表 (p.3-5)"
+    },
+    "disease_early": {
+      "value": "✅ 44 种",
+      "citation": "二号产品小册子 §保障疾病一览表 (p.5-6)"
+    },
+    "disease_children": {
+      "value": "✅ 13 种",
+      "citation": "二号产品小册子 §保障疾病一览表 (p.6)"
+    },
+    "early_not_erode": {
+      "value": "✅ 不侵蚀主保额",
+      "citation": "二号产品小册子 §产品特点 (p.2)"
+    },
+    "issue_age": {
+      "value": "0–65 岁",
+      "citation": "二号产品小册子 §产品资料 (p.12)"
+    },
+    "payout_structure": {
+      "value": "⭐ 多次赔（不完全分组）",
+      "citation": "二号产品小册子 §赔偿表 (p.4)"
+    },
+    "max_payout_pct": {
+      "value": "⭐ ~1100%",
+      "citation": "二号产品小册子 §赔偿表 (p.4-6)"
+    },
+    "cancer_claims": {
+      "value": "⭐ 最多 6 次",
+      "citation": "二号产品小册子 §癌症保障 (p.4)"
+    },
+    "heart_claims": {
+      "value": "⭐ 最多 2 次",
+      "citation": "二号产品小册子 §赔偿表 (p.4)"
+    },
+    "stroke_claims": {
+      "value": "⭐ 最多 2 次（与心脏共3次）",
+      "citation": "二号产品小册子 §赔偿表 (p.4)"
+    },
+    "other_multiple": {
+      "value": "✅（脑退化等分组多次）",
+      "citation": "二号产品小册子 §赔偿表 (p.4-6)"
+    },
+    "cancer_trigger": {
+      "value": "⭐ 复发 / 新发 / 持续",
+      "citation": "二号产品小册子 §癌症现金流 (p.4-5)"
+    },
+    "cancer_interval": {
+      "value": "⭐ 较短",
+      "citation": "二号产品小册子 §癌症保障条款 (p.5)"
+    },
+    "cancer_cashflow": {
+      "value": "⭐ 每月赔付（最长100个月）",
+      "citation": "二号产品小册子 §癌症现金流 (p.4-5)"
+    },
+    "first_ci_payout": {
+      "value": "100%",
+      "citation": "二号产品小册子 §赔偿表 (p.4)"
+    },
+    "early_payout_pct": {
+      "value": "20%（上限 USD 50,000）",
+      "citation": "二号产品小册子 §早期危疾 (p.5)"
+    },
+    "waiting_period": {
+      "value": "常规（90天）",
+      "citation": "二号产品小册子 §保障条款 (p.10)"
+    },
+    "survival_period": {
+      "value": "常规",
+      "citation": "二号产品小册子 §保障条款 (p.10)"
+    },
+    "icu_coverage": {
+      "value": "✅ 有（唯一）",
+      "citation": "二号产品小册子 §ICU保障 (p.7)"
+    },
+    "congenital": {
+      "value": "✅ 有",
+      "citation": "二号产品小册子 §儿童保障 (p.6)"
+    },
+    "benign_tumor": {
+      "value": "❌",
+      "citation": "二号产品小册子 §产品特点 (p.3)"
+    },
+    "dementia_annuity": {
+      "value": "✅ 脑退化/柏金逊症年金",
+      "citation": "二号产品小册子 §脑退化年金 (p.7)"
+    },
+    "diabetes_coverage": {
+      "value": "基础（视网膜病变）",
+      "citation": "二号产品小册子 §保障疾病一览表 (p.3-5)"
+    },
+    "pregnancy_cover": {
+      "value": "✅ 有",
+      "citation": "二号产品小册子 §孕期及儿童 (p.6)"
+    },
+    "premium_waiver": {
+      "value": "⭐ 多重（本人+家庭豁免）",
+      "citation": "二号产品小册子 §保费豁免 (p.9)"
+    },
+    "sa_increase": {
+      "value": "⭐ 灵活 Top-up 额外保费",
+      "citation": "二号产品小册子 §额外保费 (p.10)"
+    },
+    "savings_attr": {
+      "value": "中",
+      "citation": "二号产品小册子 §重要资料 (p.13)"
+    },
+    "dividend_type": {
+      "value": "终期分红（5年后）",
+      "citation": "二号产品小册子 §红利理念 (p.13)"
+    },
+    "cash_value": {
+      "value": "✅ 有",
+      "citation": "二号产品小册子 §重要资料 (p.13)"
+    },
+    "inflation_resist": {
+      "value": "⭐ 强",
+      "citation": "二号产品小册子 §产品特点 (p.2-3)"
+    },
+    "premium_stability": {
+      "value": "可调（非保证）",
+      "citation": "二号产品小册子 §产品资料 (p.12)"
+    },
+    "guaranteed_renew": {
+      "value": "✅ 是",
+      "citation": "二号产品小册子 §保障条款 (p.10)"
+    },
+    "death_benefit": {
+      "value": "保额 + 分红",
+      "citation": "二号产品小册子 §产品资料 (p.12)"
+    },
+    "plan_currency": {
+      "value": "HKD / USD",
+      "citation": "二号产品小册子 §产品资料 (p.12)"
+    }
+  },
+  "IDSS3": {
+    "product_position": {
+      "value": "早期+储蓄型",
+      "citation": "三号产品小册子 §产品概要 (p.1)"
+    },
+    "plan_type": {
+      "value": "终身至100岁（分红）",
+      "citation": "三号产品小册子 §产品资料 (p.10)"
+    },
+    "coverage_period": {
+      "value": "至100岁",
+      "citation": "三号产品小册子 §产品资料 (p.10)"
+    },
+    "premium_terms": {
+      "value": "10 / 18 / 25 年",
+      "citation": "三号产品小册子 §产品资料 (p.10)"
+    },
+    "disease_total": {
+      "value": "100 种",
+      "citation": "三号产品小册子 §保障疾病一览表 (p.4)"
+    },
+    "disease_severe": {
+      "value": "52 种",
+      "citation": "三号产品小册子 §保障疾病一览表 (p.4-5)"
+    },
+    "disease_early": {
+      "value": "✅ 39 种",
+      "citation": "三号产品小册子 §保障疾病一览表 (p.5-6)"
+    },
+    "disease_children": {
+      "value": "✅ 7 种",
+      "citation": "三号产品小册子 §保障疾病一览表 (p.6)"
+    },
+    "early_not_erode": {
+      "value": "❌ 会侵蚀",
+      "citation": "三号产品小册子 §产品特点 (p.2)"
+    },
+    "issue_age": {
+      "value": "0–65 岁",
+      "citation": "三号产品小册子 §产品资料 (p.10)"
+    },
+    "payout_structure": {
+      "value": "单次赔",
+      "citation": "三号产品小册子 §赔偿表 (p.3)"
+    },
+    "max_payout_pct": {
+      "value": "100%",
+      "citation": "三号产品小册子 §赔偿表 (p.3)"
+    },
+    "cancer_claims": {
+      "value": "1 次",
+      "citation": "三号产品小册子 §赔偿表 (p.3)"
+    },
+    "heart_claims": {
+      "value": "1 次",
+      "citation": "三号产品小册子 §赔偿表 (p.3)"
+    },
+    "stroke_claims": {
+      "value": "1 次",
+      "citation": "三号产品小册子 §赔偿表 (p.3)"
+    },
+    "other_multiple": {
+      "value": "❌",
+      "citation": "三号产品小册子 §赔偿表 (p.3)"
+    },
+    "cancer_trigger": {
+      "value": "—",
+      "citation": "三号产品小册子 §保障条款 (p.7)"
+    },
+    "cancer_interval": {
+      "value": "—",
+      "citation": "三号产品小册子 §保障条款 (p.7)"
+    },
+    "cancer_cashflow": {
+      "value": "❌",
+      "citation": "三号产品小册子 §赔偿表 (p.3)"
+    },
+    "first_ci_payout": {
+      "value": "100%",
+      "citation": "三号产品小册子 §赔偿表 (p.3)"
+    },
+    "early_payout_pct": {
+      "value": "10–20%（上限 HKD 240,000）",
+      "citation": "三号产品小册子 §早期危疾 (p.5)"
+    },
+    "waiting_period": {
+      "value": "常规（90天）",
+      "citation": "三号产品小册子 §保障条款 (p.8)"
+    },
+    "survival_period": {
+      "value": "常规",
+      "citation": "三号产品小册子 §保障条款 (p.8)"
+    },
+    "icu_coverage": {
+      "value": "❌",
+      "citation": "三号产品小册子 §产品特点 (p.2)"
+    },
+    "congenital": {
+      "value": "❌",
+      "citation": "三号产品小册子 §产品特点 (p.2)"
+    },
+    "benign_tumor": {
+      "value": "❌",
+      "citation": "三号产品小册子 §产品特点 (p.2)"
+    },
+    "dementia_annuity": {
+      "value": "❌",
+      "citation": "三号产品小册子 §产品特点 (p.2)"
+    },
+    "diabetes_coverage": {
+      "value": "中等（视网膜+血管介入）",
+      "citation": "三号产品小册子 §保障疾病一览表 (p.4-5)"
+    },
+    "pregnancy_cover": {
+      "value": "❌",
+      "citation": "三号产品小册子 §产品特点 (p.2)"
+    },
+    "premium_waiver": {
+      "value": "有",
+      "citation": "三号产品小册子 §产品资料 (p.10)"
+    },
+    "sa_increase": {
+      "value": "+50%（保障升级选项）",
+      "citation": "三号产品小册子 §保障升级 (p.7)"
+    },
+    "savings_attr": {
+      "value": "⭐ 强（年度+终期双分红）",
+      "citation": "三号产品小册子 §重要资料 (p.11)"
+    },
+    "dividend_type": {
+      "value": "⭐ 年度红利 + 终期分红（10年后）",
+      "citation": "三号产品小册子 §红利理念 (p.11)"
+    },
+    "cash_value": {
+      "value": "✅ 有",
+      "citation": "三号产品小册子 §重要资料 (p.11)"
+    },
+    "inflation_resist": {
+      "value": "中",
+      "citation": "三号产品小册子 §产品特点 (p.2)"
+    },
+    "premium_stability": {
+      "value": "稳定（缴费期内固定）",
+      "citation": "三号产品小册子 §产品资料 (p.10)"
+    },
+    "guaranteed_renew": {
+      "value": "✅ 是",
+      "citation": "三号产品小册子 §保障条款 (p.8)"
+    },
+    "death_benefit": {
+      "value": "⭐ 保额 + 双分红",
+      "citation": "三号产品小册子 §产品资料 (p.10)"
+    },
+    "plan_currency": {
+      "value": "HKD / USD",
+      "citation": "三号产品小册子 §产品资料 (p.10)"
+    }
+  },
+  "IDSS4": {
+    "product_position": {
+      "value": "定期入门型",
+      "citation": "四号产品小册子 §产品概要 (p.1)"
+    },
+    "plan_type": {
+      "value": "定期（5年续保至80岁）",
+      "citation": "四号产品小册子 §产品资料 (p.6)"
+    },
+    "coverage_period": {
+      "value": "至80岁（续保）",
+      "citation": "四号产品小册子 §产品资料 (p.6)"
+    },
+    "premium_terms": {
+      "value": "5 年续保",
+      "citation": "四号产品小册子 §产品资料 (p.6)"
+    },
+    "disease_total": {
+      "value": "115 种",
+      "citation": "四号产品小册子 §保障疾病一览表 (p.3)"
+    },
+    "disease_severe": {
+      "value": "57 种",
+      "citation": "四号产品小册子 §保障疾病一览表 (p.3-5)"
+    },
+    "disease_early": {
+      "value": "✅ 44 种",
+      "citation": "四号产品小册子 §保障疾病一览表 (p.5-6)"
+    },
+    "disease_children": {
+      "value": "✅ 13 种",
+      "citation": "四号产品小册子 §保障疾病一览表 (p.6)"
+    },
+    "early_not_erode": {
+      "value": "❌ 会侵蚀",
+      "citation": "四号产品小册子 §产品特点 (p.2)"
+    },
+    "issue_age": {
+      "value": "0–65 岁",
+      "citation": "四号产品小册子 §产品资料 (p.6)"
+    },
+    "payout_structure": {
+      "value": "单次赔",
+      "citation": "四号产品小册子 §赔偿表 (p.3)"
+    },
+    "max_payout_pct": {
+      "value": "100%",
+      "citation": "四号产品小册子 §赔偿表 (p.3)"
+    },
+    "cancer_claims": {
+      "value": "1 次",
+      "citation": "四号产品小册子 §赔偿表 (p.3)"
+    },
+    "heart_claims": {
+      "value": "1 次",
+      "citation": "四号产品小册子 §赔偿表 (p.3)"
+    },
+    "stroke_claims": {
+      "value": "1 次",
+      "citation": "四号产品小册子 §赔偿表 (p.3)"
+    },
+    "other_multiple": {
+      "value": "❌",
+      "citation": "四号产品小册子 §赔偿表 (p.3)"
+    },
+    "cancer_trigger": {
+      "value": "—",
+      "citation": "四号产品小册子 §保障条款 (p.5)"
+    },
+    "cancer_interval": {
+      "value": "—",
+      "citation": "四号产品小册子 §保障条款 (p.5)"
+    },
+    "cancer_cashflow": {
+      "value": "❌",
+      "citation": "四号产品小册子 §赔偿表 (p.3)"
+    },
+    "first_ci_payout": {
+      "value": "100%",
+      "citation": "四号产品小册子 §赔偿表 (p.3)"
+    },
+    "early_payout_pct": {
+      "value": "10–20%（上限 HKD 400,000）",
+      "citation": "四号产品小册子 §早期危疾 (p.4)"
+    },
+    "waiting_period": {
+      "value": "常规（90天）",
+      "citation": "四号产品小册子 §保障条款 (p.5)"
+    },
+    "survival_period": {
+      "value": "常规",
+      "citation": "四号产品小册子 §保障条款 (p.5)"
+    },
+    "icu_coverage": {
+      "value": "❌",
+      "citation": "四号产品小册子 §产品特点 (p.2)"
+    },
+    "congenital": {
+      "value": "❌",
+      "citation": "四号产品小册子 §产品特点 (p.2)"
+    },
+    "benign_tumor": {
+      "value": "❌",
+      "citation": "四号产品小册子 §产品特点 (p.2)"
+    },
+    "dementia_annuity": {
+      "value": "❌",
+      "citation": "四号产品小册子 §产品特点 (p.2)"
+    },
+    "diabetes_coverage": {
+      "value": "中等（视网膜+血管介入）",
+      "citation": "四号产品小册子 §保障疾病一览表 (p.3-5)"
+    },
+    "pregnancy_cover": {
+      "value": "❌",
+      "citation": "四号产品小册子 §产品特点 (p.2)"
+    },
+    "premium_waiver": {
+      "value": "❌",
+      "citation": "四号产品小册子 §产品资料 (p.6)"
+    },
+    "sa_increase": {
+      "value": "❌",
+      "citation": "四号产品小册子 §产品特点 (p.2)"
+    },
+    "savings_attr": {
+      "value": "❌ 无（纯保障）",
+      "citation": "四号产品小册子 §重要资料 (p.7)"
+    },
+    "dividend_type": {
+      "value": "❌ 无",
+      "citation": "四号产品小册子 §重要资料 (p.7)"
+    },
+    "cash_value": {
+      "value": "❌ 无",
+      "citation": "四号产品小册子 §重要资料 (p.7)"
+    },
+    "inflation_resist": {
+      "value": "弱（续保涨价）",
+      "citation": "四号产品小册子 §产品资料 (p.6)"
+    },
+    "premium_stability": {
+      "value": "❌ 续保时按年龄递增",
+      "citation": "四号产品小册子 §续保 (p.6)"
+    },
+    "guaranteed_renew": {
+      "value": "✅ 是（但保费上调）",
+      "citation": "四号产品小册子 §续保条款 (p.5)"
+    },
+    "death_benefit": {
+      "value": "保额",
+      "citation": "四号产品小册子 §产品资料 (p.6)"
+    },
+    "plan_currency": {
+      "value": "HKD / USD",
+      "citation": "四号产品小册子 §产品资料 (p.6)"
+    }
+  },
+  "IDSS5": {
+    "product_position": {
+      "value": "分类多次赔型",
+      "citation": "五号产品小册子 §产品概要 (p.1)"
+    },
+    "plan_type": {
+      "value": "终身分红保险",
+      "citation": "五号产品小册子 §产品资料 (p.10)"
+    },
+    "coverage_period": {
+      "value": "终身",
+      "citation": "五号产品小册子 §产品资料 (p.10)"
+    },
+    "premium_terms": {
+      "value": "10 / 18 年",
+      "citation": "五号产品小册子 §产品资料 (p.10)"
+    },
+    "disease_total": {
+      "value": "115 种",
+      "citation": "五号产品小册子 §保障疾病一览表 (p.4)"
+    },
+    "disease_severe": {
+      "value": "57 种",
+      "citation": "五号产品小册子 §保障疾病一览表 (p.4-5)"
+    },
+    "disease_early": {
+      "value": "✅ 44 种",
+      "citation": "五号产品小册子 §保障疾病一览表 (p.5-6)"
+    },
+    "disease_children": {
+      "value": "✅ 13 种（含先天）",
+      "citation": "五号产品小册子 §保障疾病一览表 (p.6)"
+    },
+    "early_not_erode": {
+      "value": "❌ 会侵蚀",
+      "citation": "五号产品小册子 §产品特点 (p.2)"
+    },
+    "issue_age": {
+      "value": "0–65 岁",
+      "citation": "五号产品小册子 §产品资料 (p.10)"
+    },
+    "payout_structure": {
+      "value": "⭐ 多次赔（分组）",
+      "citation": "五号产品小册子 §赔偿表 (p.5)"
+    },
+    "max_payout_pct": {
+      "value": "⭐ ~900%",
+      "citation": "五号产品小册子 §赔偿表 (p.5-7)"
+    },
+    "cancer_claims": {
+      "value": "最多 3 次",
+      "citation": "五号产品小册子 §赔偿表 (p.5)"
+    },
+    "heart_claims": {
+      "value": "最多 2 次",
+      "citation": "五号产品小册子 §赔偿表 (p.5)"
+    },
+    "stroke_claims": {
+      "value": "最多 2 次",
+      "citation": "五号产品小册子 §赔偿表 (p.5)"
+    },
+    "other_multiple": {
+      "value": "✅ 分组多次",
+      "citation": "五号产品小册子 §赔偿表 (p.5-7)"
+    },
+    "cancer_trigger": {
+      "value": "较严格",
+      "citation": "五号产品小册子 §等候期 (p.9)"
+    },
+    "cancer_interval": {
+      "value": "较长（约3年）",
+      "citation": "五号产品小册子 §赔偿条款 (p.8)"
+    },
+    "cancer_cashflow": {
+      "value": "❌",
+      "citation": "五号产品小册子 §赔偿表 (p.5)"
+    },
+    "first_ci_payout": {
+      "value": "100%",
+      "citation": "五号产品小册子 §赔偿表 (p.5)"
+    },
+    "early_payout_pct": {
+      "value": "20%",
+      "citation": "五号产品小册子 §早期危疾 (p.5)"
+    },
+    "waiting_period": {
+      "value": "⚠️ 癌症 3 年",
+      "citation": "五号产品小册子 §等候期 (p.9)"
+    },
+    "survival_period": {
+      "value": "15 天",
+      "citation": "五号产品小册子 §保障条款 (p.9)"
+    },
+    "icu_coverage": {
+      "value": "❌",
+      "citation": "五号产品小册子 §产品特点 (p.3)"
+    },
+    "congenital": {
+      "value": "✅ 市场首创（投保后发现亦保）",
+      "citation": "五号产品小册子 §先天疾病保障 (p.3)"
+    },
+    "benign_tumor": {
+      "value": "✅ 市场首创",
+      "citation": "五号产品小册子 §良性病变保障 (p.3)"
+    },
+    "dementia_annuity": {
+      "value": "❌",
+      "citation": "五号产品小册子 §产品特点 (p.3)"
+    },
+    "diabetes_coverage": {
+      "value": "⭐ 全面（早期→严重）",
+      "citation": "五号产品小册子 §保障疾病一览表 (p.4-5)"
+    },
+    "pregnancy_cover": {
+      "value": "❌",
+      "citation": "五号产品小册子 §产品特点 (p.3)"
+    },
+    "premium_waiver": {
+      "value": "⭐ 有（子女保单自动豁免）",
+      "citation": "五号产品小册子 §保费豁免 (p.8)"
+    },
+    "sa_increase": {
+      "value": "升级保障额外 +50%",
+      "citation": "五号产品小册子 §升级保障 (p.7)"
+    },
+    "savings_attr": {
+      "value": "⭐ 强（年度+终期双分红）",
+      "citation": "五号产品小册子 §重要资料 (p.11)"
+    },
+    "dividend_type": {
+      "value": "⭐ 年度红利 + 终期分红（5年后）",
+      "citation": "五号产品小册子 §红利理念 (p.11)"
+    },
+    "cash_value": {
+      "value": "✅ 有",
+      "citation": "五号产品小册子 §重要资料 (p.11)"
+    },
+    "inflation_resist": {
+      "value": "中",
+      "citation": "五号产品小册子 §产品特点 (p.2)"
+    },
+    "premium_stability": {
+      "value": "稳定（缴费期内固定）",
+      "citation": "五号产品小册子 §产品资料 (p.10)"
+    },
+    "guaranteed_renew": {
+      "value": "✅ 是",
+      "citation": "五号产品小册子 §保障条款 (p.9)"
+    },
+    "death_benefit": {
+      "value": "⭐ 保额 + 双分红",
+      "citation": "五号产品小册子 §产品资料 (p.10)"
+    },
+    "plan_currency": {
+      "value": "HKD / USD",
+      "citation": "五号产品小册子 §产品资料 (p.10)"
+    }
+  }
+}
