@@ -1,5 +1,5 @@
 """
-CI Insurance Decision Support System
+IDSS Insurance Decision Support System
 生产版 — NiceGUI 主界面
 
 运行：
@@ -1052,10 +1052,10 @@ def main_page():
     # ── HEADER ────────────────────────────────────────────────────────────
     ui.html(
         '<div class="hdr">'
-        '<span class="logo">CI Advisor</span>'
+        '<span class="logo">IDSS Advisor</span>'
         '<div class="hdr-title">'
-        '<span class="t1">危疾保险产品智能决策支持系统</span>'
-        '<span class="t2">AI-Powered Critical Illness Insurance Decision Support System</span>'
+        '<span class="t1">保险产品智能决策支持系统</span>'
+        '<span class="t2">AI-Powered Insurance Decision Support System</span>'
         '</div>'
         '<div class="hdr-tags">'
         '<span class="atag t-orch">Orchestrator</span>'
@@ -1157,7 +1157,7 @@ def main_page():
                     '<div style="display:flex;align-items:center;'
                     'justify-content:space-between;margin-bottom:10px;flex-wrap:wrap;gap:6px">'
                     '<span style="font-size:15px;font-weight:700;white-space:nowrap">'
-                    '危疾保险全面对比表</span>'
+                    '保险产品全面对比表</span>'
                     '<span style="font-size:10.5px;color:#aaa">'
                     '⚡ 差异高亮 &nbsp;·&nbsp; ▶ 展开分组 &nbsp;·&nbsp; '
                     '★ AI动态追加 &nbsp;·&nbsp; 📎 引用嵌入格内</span>'
@@ -1299,7 +1299,7 @@ if __name__ in {"__main__", "__mp_main__"}:
         asyncio.set_event_loop(_main_loop)
 
     print("=" * 55)
-    print("CI Insurance Decision Support System")
+    print("IDSS Insurance Decision Support System")
     print(f"LLM Backend : {LLMConfig.backend.value} ({LLMConfig.get_effective_model()})")
     print("访问地址    : http://localhost:8080")
     print("PDF 链接    : http://localhost:8080/static/pdfs/<filename>")
@@ -1307,7 +1307,7 @@ if __name__ in {"__main__", "__mp_main__"}:
     ui.run(
         host="0.0.0.0",
         port=8080,
-        title="危疾保险智能决策系统",
+        title="保险产品智能决策系统",
         favicon="🏥",
         reload=False,
         show=False,
