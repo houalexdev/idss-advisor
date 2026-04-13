@@ -1,0 +1,72 @@
+{
+  "IDSS1": {
+    "product_position": "基础型（聚焦三大高发）",
+    "plan_type": "终身分红保险",
+    "coverage_period": "终身",
+    "premium_terms": "10/18/25年",
+    "disease_total": "58种",
+    "disease_severe": "57种",
+    "disease_early": "不涵盖",
+    "disease_children": "不涵盖",
+    "cancer_claims": "2次（Big3守护）",
+    "icu_coverage": "无",
+    "congenital": "无",
+    "savings_attr": "中"
+  },
+  "IDSS2": {
+    "product_position": "全能型（多次+家庭）",
+    "plan_type": "终身分红保险",
+    "coverage_period": "终身",
+    "premium_terms": "10年（可加额外保费）",
+    "disease_total": "115种",
+    "disease_severe": "57种",
+    "disease_early": "44种",
+    "disease_children": "13种",
+    "cancer_claims": "最多6次",
+    "icu_coverage": "有（唯一）",
+    "congenital": "有",
+    "savings_attr": "中"
+  },
+  "IDSS3": {
+    "product_position": "早期+储蓄型",
+    "plan_type": "终身至100岁（分红）",
+    "coverage_period": "至100岁",
+    "premium_terms": "10/18/25年",
+    "disease_total": "100种",
+    "disease_severe": "52种",
+    "disease_early": "39种",
+    "disease_children": "7种",
+    "cancer_claims": "1次",
+    "icu_coverage": "无",
+    "congenital": "无",
+    "savings_attr": "强（年度+终期双分红）"
+  },
+  "IDSS4": {
+    "product_position": "定期入门型",
+    "plan_type": "定期（5年续保至80岁）",
+    "coverage_period": "至80岁（续保）",
+    "premium_terms": "5年续保",
+    "disease_total": "115种",
+    "disease_severe": "57种",
+    "disease_early": "44种",
+    "disease_children": "13种",
+    "cancer_claims": "1次",
+    "icu_coverage": "无",
+    "congenital": "无",
+    "savings_attr": "无（纯保障）"
+  },
+  "IDSS5": {
+    "product_position": "分类多次赔型",
+    "plan_type": "终身分红保险",
+    "coverage_period": "终身",
+    "premium_terms": "10/18年",
+    "disease_total": "115种",
+    "disease_severe": "57种",
+    "disease_early": "44种",
+    "disease_children": "13种（含先天）",
+    "cancer_claims": "最多3次",
+    "icu_coverage": "无",
+    "congenital": "市场首创（投保后发现亦保）",
+    "savings_attr": "强（年度+终期双分红）"
+  }
+}
